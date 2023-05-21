@@ -1,0 +1,263 @@
+{
+  "trainerName": "Ash",
+  "team": [
+    {
+      "_id": "646634dee7312408e117638d",
+      "name": "bulbasaur",
+      "type": [
+        "grass",
+        "poison"
+      ],
+      "status": [
+        {
+          "nameStatus": "hp",
+          "statusValues": 45,
+          "_id": "646634dee7312408e117638e"
+        },
+        {
+          "nameStatus": "attack",
+          "statusValues": 49,
+          "_id": "646634dee7312408e117638f"
+        },
+        {
+          "nameStatus": "defense",
+          "statusValues": 49,
+          "_id": "646634dee7312408e1176390"
+        },
+        {
+          "nameStatus": "special-attack",
+          "statusValues": 65,
+          "_id": "646634dee7312408e1176391"
+        },
+        {
+          "nameStatus": "special-defense",
+          "statusValues": 65,
+          "_id": "646634dee7312408e1176392"
+        },
+        {
+          "nameStatus": "speed",
+          "statusValues": 45,
+          "_id": "646634dee7312408e1176393"
+        }
+      ],
+      "pokeIndex": 1,
+      "height": 7,
+      "weight": 69,
+      "moves": [
+        "energy-ball",
+        "mega-drain",
+        "sludge",
+        "tackle"
+      ],
+      "__v": 0,
+      "createdAt": "2023-05-18T14:23:26.405Z",
+      "updatedAt": "2023-05-18T14:23:26.405Z"
+    },
+    {
+      "_id": "646634dee7312408e11763b0",
+      "name": "charizard",
+      "type": [
+        "fire",
+        "flying"
+      ],
+      "status": [
+        {
+          "nameStatus": "hp",
+          "statusValues": 78,
+          "_id": "646634dee7312408e11763b1"
+        },
+        {
+          "nameStatus": "attack",
+          "statusValues": 84,
+          "_id": "646634dee7312408e11763b2"
+        },
+        {
+          "nameStatus": "defense",
+          "statusValues": 78,
+          "_id": "646634dee7312408e11763b3"
+        },
+        {
+          "nameStatus": "special-attack",
+          "statusValues": 109,
+          "_id": "646634dee7312408e11763b4"
+        },
+        {
+          "nameStatus": "special-defense",
+          "statusValues": 85,
+          "_id": "646634dee7312408e11763b5"
+        },
+        {
+          "nameStatus": "speed",
+          "statusValues": 100,
+          "_id": "646634dee7312408e11763b6"
+        }
+      ],
+      "pokeIndex": 6,
+      "height": 17,
+      "weight": 905,
+      "moves": [
+        "brick-break",
+        "fire-fang",
+        "scorching-sands",
+        "dragon-claw"
+      ],
+      "__v": 0,
+      "createdAt": "2023-05-18T14:23:26.407Z",
+      "updatedAt": "2023-05-18T14:23:26.407Z"
+    },
+    {
+      "_id": "646634dee7312408e11763b7",
+      "name": "squirtle",
+      "type": [
+        "water"
+      ],
+      "status": [
+        {
+          "nameStatus": "hp",
+          "statusValues": 44,
+          "_id": "646634dee7312408e11763b8"
+        },
+        {
+          "nameStatus": "attack",
+          "statusValues": 48,
+          "_id": "646634dee7312408e11763b9"
+        },
+        {
+          "nameStatus": "defense",
+          "statusValues": 65,
+          "_id": "646634dee7312408e11763ba"
+        },
+        {
+          "nameStatus": "special-attack",
+          "statusValues": 50,
+          "_id": "646634dee7312408e11763bb"
+        },
+        {
+          "nameStatus": "special-defense",
+          "statusValues": 64,
+          "_id": "646634dee7312408e11763bc"
+        },
+        {
+          "nameStatus": "speed",
+          "statusValues": 43,
+          "_id": "646634dee7312408e11763bd"
+        }
+      ],
+      "pokeIndex": 7,
+      "height": 5,
+      "weight": 90,
+      "moves": [
+        "mega-punch",
+        "headbutt",
+        "attract",
+        "false-swipe"
+      ],
+      "__v": 0,
+      "createdAt": "2023-05-18T14:23:26.407Z",
+      "updatedAt": "2023-05-18T14:23:26.407Z"
+    },
+    {
+      "_id": "646634dee7312408e1176404",
+      "name": "pidgeot",
+      "type": [
+        "normal",
+        "flying"
+      ],
+      "status": [
+        {
+          "nameStatus": "hp",
+          "statusValues": 83,
+          "_id": "646634dee7312408e1176405"
+        },
+        {
+          "nameStatus": "attack",
+          "statusValues": 80,
+          "_id": "646634dee7312408e1176406"
+        },
+        {
+          "nameStatus": "defense",
+          "statusValues": 75,
+          "_id": "646634dee7312408e1176407"
+        },
+        {
+          "nameStatus": "special-attack",
+          "statusValues": 70,
+          "_id": "646634dee7312408e1176408"
+        },
+        {
+          "nameStatus": "special-defense",
+          "statusValues": 70,
+          "_id": "646634dee7312408e1176409"
+        },
+        {
+          "nameStatus": "speed",
+          "statusValues": 101,
+          "_id": "646634dee7312408e117640a"
+        }
+      ],
+      "pokeIndex": 18,
+      "height": 15,
+      "weight": 395,
+      "moves": [
+        "facade",
+        "aerial-ace",
+        "razor-wind",
+        "substitute"
+      ],
+      "__v": 0,
+      "createdAt": "2023-05-18T14:23:26.408Z",
+      "updatedAt": "2023-05-18T14:23:26.408Z"
+    },
+    {
+      "_id": "646634dee7312408e1176435",
+      "name": "pikachu",
+      "type": [
+        "electric"
+      ],
+      "status": [
+        {
+          "nameStatus": "hp",
+          "statusValues": 35,
+          "_id": "646634dee7312408e1176436"
+        },
+        {
+          "nameStatus": "attack",
+          "statusValues": 55,
+          "_id": "646634dee7312408e1176437"
+        },
+        {
+          "nameStatus": "defense",
+          "statusValues": 40,
+          "_id": "646634dee7312408e1176438"
+        },
+        {
+          "nameStatus": "special-attack",
+          "statusValues": 50,
+          "_id": "646634dee7312408e1176439"
+        },
+        {
+          "nameStatus": "special-defense",
+          "statusValues": 50,
+          "_id": "646634dee7312408e117643a"
+        },
+        {
+          "nameStatus": "speed",
+          "statusValues": 90,
+          "_id": "646634dee7312408e117643b"
+        }
+      ],
+      "pokeIndex": 25,
+      "height": 4,
+      "weight": 60,
+      "moves": [
+        "charge-beam",
+        "feint",
+        "hidden-power",
+        "dynamic-punch"
+      ],
+      "__v": 0,
+      "createdAt": "2023-05-18T14:23:26.409Z",
+      "updatedAt": "2023-05-18T14:23:26.409Z"
+    }
+  ]
+}
