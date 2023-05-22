@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/server.ts",
+    "random": "ts-node src/randomArrayValue/randomArrayValue.ts",
     "test": "jest"
   },
   "keywords": [],
