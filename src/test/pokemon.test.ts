@@ -1,7 +1,7 @@
 import { describe, expect, test } from "@jest/globals";
-import PokeTeamsService from "../../PokeTeams/pokeTeams.service";
-import pokemonDataService from "../../PokemonData/pokemonData.service";
-import pokemonDataSchema from "../../PokemonData/pokemonData.schema";
+import PokeTeamsService from "../PokeTeams/pokeTeams.service";
+import pokemonDataService from "../PokemonData/pokemonData.service";
+import pokemonDataSchema from "../PokemonData/pokemonData.schema";
 import { writeFile, readFile } from "fs/promises";
 import { existsSync } from "fs";
 import mongoose from "mongoose";
@@ -72,7 +72,7 @@ describe("pokemon Data Tests", () => {
   });
 
   test("questão 6", async () => {
-    const name = "pikachu"
+    const name = "pikachu";
     const pokemon = await pokemonDataService.getPokemonByName(name);
     expect(pokemon).toBeDefined();
     expect(Array.isArray(pokemon)).toBe(true);
